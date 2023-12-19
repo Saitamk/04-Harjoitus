@@ -1,0 +1,46 @@
+html {
+  font-size: 62.5%;
+}
+body {
+  background-color: #79c043;
+  color: white;
+  font-size: 2rem;
+  margin: 0;
+  max-width: fit-content;
+}
+header {
+  background-color: red;
+  padding: 2rem;
+}
+nav {
+  background-color: orange;
+  padding: 2rem;
+}
+.container {
+  display: flex;
+}
+section {
+  background-color: #fdbf14;
+  padding: 1rem;
+}
+#kappale1 {
+  background-color: #79c043;
+  padding: 1rem;
+  margin: 1rem;
+  margin-block: 1rem;
+}
+#kappale2 {
+  background-color: #79c043;
+  padding: 2rem;
+  margin: 1rem;
+}
+
+aside {
+  background-color: #0a6fb2;
+  padding: 1rem;
+}
+footer {
+  background-color: #932c8c;
+  padding: 2rem;
+  clear: both;
+}
